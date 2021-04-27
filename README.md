@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog.
+
+This is a project I did with Bootstrap. 
